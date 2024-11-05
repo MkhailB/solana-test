@@ -2,5 +2,6 @@
   "name": "First Token",
   "symbol": "FTK",
   "description": "Example token from Solana Making a Token guide.",
-  "image": "https://papik.pro/uploads/posts/2023-02/1675780212_papik-pro-p-glaza-sovi-risunok-6.jpg"
+  "image": "https://papik.pro/uploads/posts/2023-02/1675780212_papik-pro-p-glaza-sovi-risunok-6.jpg",
+  "aba": "aaa"
 }
